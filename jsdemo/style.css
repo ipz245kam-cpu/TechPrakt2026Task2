@@ -8,3 +8,9 @@ div.user div {
 div.user.selected {
     background-color: greenyellow;
 }
+
+/* Змінено Кошарська Анастасія */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f4f8;
+}
