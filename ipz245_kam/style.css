@@ -47,3 +47,12 @@ h1 {
   padding: 0 20px 20px;
   line-height: 1.6;
 }
+
+header {
+  background: #667eea;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 32px;
+  border-radius: 12px;
+}
