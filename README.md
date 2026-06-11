@@ -8,3 +8,5 @@ TechPrakt2026Task2
 
 \- Кошарська Анастасія, група ІПЗ-24-5
 
+ipz245\_kam@student.ztu.edu.ua
+
